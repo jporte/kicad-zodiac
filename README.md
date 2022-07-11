@@ -24,5 +24,6 @@ There are two versions of each constellatiopn. A \_copper and a \_silkscreen one
 | Aquarius      | TBD                                               | TBD                                                       |
 | Pisces        | TBD                                               | TBD                                                       |
 
->I am not a big fan of astrology.
+
+
 >![Meme](https://preview.redd.it/63cfjoy9lqw61.jpg?auto=webp&s=9b409f4d45a02ed9ce39a9d19aa8fcaee100dd69)
